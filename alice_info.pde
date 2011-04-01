@@ -1,7 +1,7 @@
 PImage alice;
 PImage pilz;
 PImage bg;
-float skalierung=1;
+float skalierung=1; //test
 
 void setup() {
   bg=loadImage("alice-bg.png");
