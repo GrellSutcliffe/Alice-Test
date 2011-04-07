@@ -21,7 +21,7 @@ void draw() {
   }
   pushMatrix();
   translate(width/2-skalierung*alice.width/2,
-          bg.height-skalierung*alice.height);
+          bg.height-skalierung*alice.height); //test
    scale(skalierung);
    image(alice,0,0);
    popMatrix();
